@@ -14,6 +14,7 @@
 		"date":                       { "fg": "gray8", "bg": "gray2", "attrs": [] },
 		"time":                       { "fg": "gray10", "bg": "gray2", "attrs": ["bold"] },
 		"time:divider":               { "fg": "gray5", "bg": "gray2", "attrs": [] },
+		"fuzzy_time":                 { "fg": "gray10", "bg": "gray2", "attrs": ["bold"] },
 		"email_alert":                "warning:regular",
 		"email_alert_gradient":       { "fg": "white", "bg": "yellow_orange_red", "attrs": ["bold"] },
 		"hostname":                   { "fg": "black", "bg": "gray10", "attrs": ["bold"] },
